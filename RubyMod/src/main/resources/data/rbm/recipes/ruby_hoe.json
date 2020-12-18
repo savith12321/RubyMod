@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "rr ",
+    " s ",
+    " s "
+  ],
+  "key":
+  {
+    "r":
+    {
+      "item": "rbm:ruby"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "rbm:ruby_hoe",
+    "count": 1
+  }
+}
